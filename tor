@@ -1,0 +1,6 @@
+[Tor]
+name=Tor Project Repo
+baseurl=http://deb.torproject.org/torproject.org/rpm/el/6/$basearch/
+gpgcheck=1
+enabled=1
+gpgkey=http://deb.torproject.org/torproject.org/rpm/RPM-GPG-KEY-torproject.org.asc
